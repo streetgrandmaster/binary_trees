@@ -84,3 +84,4 @@ dkms.conf
 120-is_avl
 121-avl_insert
 122-avl_array
+123-avl_rm
