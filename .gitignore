@@ -78,3 +78,4 @@ dkms.conf
 104-rotr
 110-is_bst
 111-bst_insert
+112-bst_array
