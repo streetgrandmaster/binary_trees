@@ -90,3 +90,4 @@ dkms.conf
 131-heap_insert
 132-heap_array
 133-heap_extract
+134-heap_sort
