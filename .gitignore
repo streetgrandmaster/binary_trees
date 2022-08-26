@@ -60,3 +60,4 @@ dkms.conf
 5-root
 6-pre
 7-in
+8-post
