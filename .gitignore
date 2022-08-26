@@ -87,3 +87,4 @@ dkms.conf
 123-avl_rm
 124-avl_sorted
 130-is_heap
+131-heap_insert
